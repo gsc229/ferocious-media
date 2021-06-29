@@ -1,7 +1,7 @@
 import React from 'react'
 import Modal from '@material-ui/core/Modal'
 
-const Menu = () => {
+const TopBar = () => {
   return (
     <Modal>
       
@@ -9,4 +9,4 @@ const Menu = () => {
   )
 }
 
-export default Menu
+export default TopBar

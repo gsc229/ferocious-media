@@ -1,10 +1,10 @@
 import React from 'react'
-import Container from '@material-ui/core/Container'
+import TopBar from '../Components/TopBar/TopBar'
 
 const LayoutOne = ({ children }) => {
   return (
     <div className='layout-one'>
-      {/* Menu/App Bar */}
+      <TopBar />
       { children }
     </div>
   )

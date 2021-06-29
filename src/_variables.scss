@@ -9,11 +9,11 @@
   --fdos: "Montserrat",sans-serif;
 }
 
-$primero: #454545;
-$segundo: #b90000;
-$tercero: #f4ff00;
-$gris: #646464;
-$plata: #f5f5f5;
-$otroplata: grey;
-$funo: "Mukta",sans-serif;
-$fdos: "Montserrat",sans-serif;
+$primero: var(--primero);
+$segundo: var(--segundo);
+$tercero: var(--tercero);
+$gris: var(--gris);
+$plata: var(--plata);
+$otroplata: var(--otroplata);
+$funo: var(--funo);
+$fdos: var(--fdos);
