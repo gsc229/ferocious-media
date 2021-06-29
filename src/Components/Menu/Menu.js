@@ -1,10 +1,11 @@
 import React from 'react'
+import Modal from '@material-ui/core/Modal'
 
 const Menu = () => {
   return (
-    <div>
+    <Modal>
       
-    </div>
+    </Modal>
   )
 }
 
