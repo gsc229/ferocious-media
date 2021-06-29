@@ -3,9 +3,10 @@ import Container from '@material-ui/core/Container'
 
 const LayoutOne = ({ children }) => {
   return (
-    <Container size="sm">
+    <div className='layout-one'>
+      {/* Menu/App Bar */}
       { children }
-    </Container>
+    </div>
   )
 }
 
