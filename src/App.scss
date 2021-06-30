@@ -1,3 +1,5 @@
+@import './variables';
+
 .App {
   text-align: center;
 }
@@ -28,6 +30,14 @@
   color: #61dafb;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--funo);
+  margin: 0;
+  padding: 0;
+  line-height: 1.3em;
+  font-weight: 300;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +46,9 @@
     transform: rotate(360deg);
   }
 }
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+@import './Components/TopBar/TopBar.scss';
+@import './Layouts/LayoutOne.scss';
+@import './Components/TopBar/TopBarBottom.scss';
+@import './Components/Warehouse/Warehouse.scss';
+@import './Pages/Pages.scss';

@@ -1,0 +1,492 @@
+[
+  {
+  "propertiestatus": true,
+  "propertylocation": [
+  "All Locations",
+  "Queens"
+  ],
+  "propertycat": [
+  "All Types"
+  ],
+  "_id": "60da18d9e32a67cf88f8c819",
+  "photo": "supernorman.jpg",
+  "name": "Norman",
+  "lastname": "Pleitez",
+  "user": "60d0b8094c3daa1a74fb520f",
+  "featuredimg": "big-placeholder.jpg",
+  "propertytitle": "Property in 54th Avenue, Long Island City",
+  "propertylink": "property-in-54th-avenue-long-island-city",
+  "propertyid": "ON-05",
+  "propertyaddress": "5-02 54th Avenue, Long Island City, NY 11101",
+  "propertydetails": "<p><strong>Contact</strong></p><p>Phone:&nbsp;<a href=\"tel:7187868400%C2%A0\" rel=\"noopener noreferrer\" target=\"_blank\">(718) 786-8400&nbsp;</a></p><p>Email: alan@onestoplic.com</p>",
+  "extraboxes": [
+  {
+  "_id": "60da18d9e32a67cf88f8c81a",
+  "subtitle": "Available",
+  "order": 1,
+  "bodybox": "On Call"
+  }
+  ],
+  "gallery": [],
+  "date": "2021-06-28T18:45:45.248Z",
+  "__v": 0
+  },
+  {
+  "propertyitems": {
+  "officesize": "1,000 sq. ft.",
+  "warehousesize": "80,000 sq. ft.",
+  "landsize": "98,325 sq. ft.",
+  "loadingdock": "Yes",
+  "zoning": "M3-1",
+  "drivein": "Yes"
+  },
+  "propertiestatus": true,
+  "propertylocation": [
+  "All Locations",
+  "Brooklyn"
+  ],
+  "propertycat": [
+  "All Types",
+  "Warehouse",
+  "Film Production",
+  "Construction",
+  "Storage",
+  "Light Manufacturing",
+  "Garage",
+  "Office",
+  "Distribution"
+  ],
+  "_id": "60da17d5e32a67cf88f8c803",
+  "photo": "supernorman.jpg",
+  "name": "Norman",
+  "lastname": "Pleitez",
+  "user": "60d0b8094c3daa1a74fb520f",
+  "featuredimg": "yun00254.jpg",
+  "propertytitle": "Warehouse in Grand Street",
+  "propertylink": "warehouse-in-grand-street",
+  "propertyid": "ON-04",
+  "propertyaddress": "1213 Grand Street, Brooklyn, NY 11211",
+  "propertydetails": "<p><strong>Spaces are divisible to fit multiple needs and uses.&nbsp;</strong></p><p><br></p><p><strong>Contact</strong></p><p>Phone: <a href=\"about:blank\" rel=\"noopener noreferrer\" target=\"_blank\">(718) 786-8400&nbsp;</a></p><p>Email: alan@onestoplic.com&nbsp;</p><p><br></p>",
+  "extraboxes": [
+  {
+  "_id": "60da17d5e32a67cf88f8c804",
+  "subtitle": "Available",
+  "order": 1,
+  "bodybox": "On Call"
+  },
+  {
+  "_id": "60da17d5e32a67cf88f8c805",
+  "subtitle": "Features",
+  "order": 2,
+  "bodybox": "80,000 square feet of warehouse\n98,325 square feet of land\n1,000 square feet of office space\n43,000 square feet of cold storage\nMultiple loading docks\nDive in access"
+  }
+  ],
+  "gallery": [
+  {
+  "_id": "60da2500ff1affd45cc628cd",
+  "fileName": "dsc_0009.jpg"
+  },
+  {
+  "_id": "60da2500ff1affd45cc628ce",
+  "fileName": "dsc_0010.jpg"
+  },
+  {
+  "_id": "60da2500ff1affd45cc628cf",
+  "fileName": "dsc_0017.jpg"
+  },
+  {
+  "_id": "60da2500ff1affd45cc628d0",
+  "fileName": "dsc_0019.jpg"
+  },
+  {
+  "_id": "60da2500ff1affd45cc628d1",
+  "fileName": "dsc_0020.jpg"
+  },
+  {
+  "_id": "60da255668d0b8d491a7a2af",
+  "fileName": "dsc_0021.jpg"
+  },
+  {
+  "_id": "60da255668d0b8d491a7a2b0",
+  "fileName": "dsc_0022.jpg"
+  },
+  {
+  "_id": "60da255668d0b8d491a7a2b1",
+  "fileName": "dsc_0024.jpg"
+  },
+  {
+  "_id": "60da255668d0b8d491a7a2b2",
+  "fileName": "dsc_0025.jpg"
+  },
+  {
+  "_id": "60da255668d0b8d491a7a2b3",
+  "fileName": "dsc_0026.jpg"
+  },
+  {
+  "_id": "60da286893e3b9d60462ee5e",
+  "fileName": "dsc_0029.jpg"
+  },
+  {
+  "_id": "60da286893e3b9d60462ee5f",
+  "fileName": "dsc_0030.jpg"
+  },
+  {
+  "_id": "60da286893e3b9d60462ee60",
+  "fileName": "dsc_0032.jpg"
+  },
+  {
+  "_id": "60da286893e3b9d60462ee61",
+  "fileName": "dsc_0035.jpg"
+  },
+  {
+  "_id": "60da286893e3b9d60462ee62",
+  "fileName": "yun00252.jpg"
+  }
+  ],
+  "date": "2021-06-28T18:41:25.131Z",
+  "__v": 0
+  },
+  {
+  "propertyitems": {
+  "warehousesize": "15,000 sq. ft.",
+  "landsize": "6,000 sq. ft.",
+  "loadingdock": "Yes"
+  },
+  "propertiestatus": true,
+  "propertylocation": [
+  "All Locations",
+  "Queens"
+  ],
+  "propertycat": [
+  "All Types",
+  "Distribution",
+  "Storage",
+  "Land",
+  "Warehouse"
+  ],
+  "_id": "60da12b3082782cde62bf92d",
+  "photo": "supernorman.jpg",
+  "name": "Norman",
+  "lastname": "Pleitez",
+  "user": "60d0b8094c3daa1a74fb520f",
+  "featuredimg": "dsc_0032.jpg",
+  "propertytitle": "Warehouse/Land Space near to Street Bridge",
+  "propertylink": "warehouseland-space-near-to-street-bridge",
+  "propertyid": "RH-4982-property",
+  "propertyaddress": "12-01 34th Ave, Long Island City, NY 11106",
+  "propertydetails": "<p>15,000 square feet of warehouse space</p><p>Divisible by 1,000 sq. ft. &amp; up units</p><p>6,000 square feet of land/yard space</p><p><br></p><p>Drive in and loading dock capabilities</p><p>Perfect for operation, distribution, storage etc.</p><p><br></p><p>Minutes from the 59th Street Bridge</p><p><br></p><p><strong>Contact</strong></p><p>Phone: <a href=\"tel:7187868400&nbsp;\" rel=\"noopener noreferrer\" target=\"_blank\">(718) 786-8400&nbsp;</a></p><p>Email: alan@onestoplic.com</p>",
+  "extraboxes": [],
+  "gallery": [
+  {
+  "_id": "60da28eb3fbbacd68ad2182b",
+  "fileName": "dsc_0026.jpg"
+  },
+  {
+  "_id": "60da28eb3fbbacd68ad2182c",
+  "fileName": "dsc_0027.jpg"
+  },
+  {
+  "_id": "60da28eb3fbbacd68ad2182d",
+  "fileName": "dsc_0030.jpg"
+  },
+  {
+  "_id": "60da28eb3fbbacd68ad2182e",
+  "fileName": "dsc_0031.jpg"
+  },
+  {
+  "_id": "60da28eb3fbbacd68ad2182f",
+  "fileName": "dsc_0032.jpg"
+  },
+  {
+  "_id": "60da290ac911d7d69608d358",
+  "fileName": "dsc_0033.jpg"
+  },
+  {
+  "_id": "60da290ac911d7d69608d359",
+  "fileName": "dsc_0034.jpg"
+  },
+  {
+  "_id": "60da290ac911d7d69608d35a",
+  "fileName": "dsc_0035.jpg"
+  },
+  {
+  "_id": "60da290ac911d7d69608d35b",
+  "fileName": "dsc_0036.jpg"
+  },
+  {
+  "_id": "60da290ac911d7d69608d35c",
+  "fileName": "dsc_0037.jpg"
+  },
+  {
+  "_id": "60da291de4a116d6a80ac4e5",
+  "fileName": "dsc_0136.jpg"
+  },
+  {
+  "_id": "60da291de4a116d6a80ac4e6",
+  "fileName": "dsc_0137.jpg"
+  },
+  {
+  "_id": "60da291de4a116d6a80ac4e7",
+  "fileName": "dsc_0138.jpg"
+  },
+  {
+  "_id": "60da291de4a116d6a80ac4e8",
+  "fileName": "dsc_0139.jpg"
+  },
+  {
+  "_id": "60da291de4a116d6a80ac4e9",
+  "fileName": "dsc_0140.jpg"
+  }
+  ],
+  "date": "2021-06-28T18:19:31.078Z",
+  "__v": 0
+  },
+  {
+  "propertyitems": {
+  "officesize": "6,000 sq ft",
+  "warehousesize": "97,000 sq ft",
+  "landsize": "4 Acres",
+  "electric": "All Phase Electric",
+  "water": "Sprinkler System",
+  "loadingdock": "Yes",
+  "zoning": "Light Industry (LI)",
+  "drivein": "Yes"
+  },
+  "propertiestatus": true,
+  "propertylocation": [
+  "Long Island",
+  "All Locations"
+  ],
+  "propertycat": [
+  "Film Production",
+  "Distribution",
+  "All Types",
+  "Construction",
+  "Transportation",
+  "Storage",
+  "Light Manufacturing"
+  ],
+  "_id": "60d9cd4f9fcdd3c066f8d8a2",
+  "photo": "supernorman.jpg",
+  "name": "Norman",
+  "lastname": "Pleitez",
+  "user": "60d0b8094c3daa1a74fb520f",
+  "featuredimg": "image.jpg",
+  "propertytitle": "Warehouse in Underhill Boulevard, Syosset",
+  "propertylink": "warehouse-in-underhill-boulevard-syosset",
+  "propertyid": "RH-4787-property",
+  "propertyaddress": "225 Underhill Boulevard, Syosset, NY 11791",
+  "propertydetails": "<p>We are a one stop shop for all your&nbsp;commercial (industrial) rental needs. Easy&nbsp;terms for Licensee’s or property owners&nbsp;seeking a management company, our goal&nbsp;is to accommodate our clients. Full service&nbsp;maintenance crews on site as well as&nbsp;highly trained office staff, allowing you to&nbsp;rent with ease and confidence. Downsizing&nbsp;and adding space made simple with&nbsp;flexible terms. Contact us for availability.</p><p><br></p><p><strong>Contact</strong></p><p>Phone: (718) 786-8400&nbsp;</p><p>Email: alan@onestoplic.com&nbsp;</p><p>Website: www.onestopspaces.com</p>",
+  "extraboxes": [
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a3",
+  "subtitle": "Available",
+  "order": 1,
+  "bodybox": "On Call"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a4",
+  "subtitle": "Offices",
+  "order": 2,
+  "bodybox": "6,000 square feet \nExecutive Suites \nEmployee Parking "
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a5",
+  "subtitle": "Warehouse",
+  "order": 3,
+  "bodybox": "97,000 square feet \n13 Dock-High Doors/Loading Drive in access \nAll Phase Electric \nStorage \nLight Manufacturing  \nSprinkler System"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a6",
+  "subtitle": "Exterior Space",
+  "order": 4,
+  "bodybox": "4 Acres \nParking \nEquipment Storage "
+  }
+  ],
+  "gallery": [
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a7",
+  "fileName": "20190427_124245.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a8",
+  "fileName": "20190427_124313.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8a9",
+  "fileName": "20190427_124530.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8aa",
+  "fileName": "20190427_124534.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8ab",
+  "fileName": "20190427_124742.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8ac",
+  "fileName": "20190427_125906.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8ad",
+  "fileName": "20190427_125924.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8ae",
+  "fileName": "20190427_130219.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8af",
+  "fileName": "20190427_130459.jpg"
+  },
+  {
+  "_id": "60d9cd4f9fcdd3c066f8d8b0",
+  "fileName": "20190427_130520.jpg"
+  },
+  {
+  "_id": "60da00b6aa485d109d02f94d",
+  "fileName": "20190427_124622.jpg"
+  },
+  {
+  "_id": "60da00b6aa485d109d02f94e",
+  "fileName": "20190427_124640.jpg"
+  },
+  null,
+  null,
+  null,
+  {
+  "_id": "60da01697882b510ddfe886e",
+  "fileName": "20190427_124702.jpg"
+  },
+  {
+  "_id": "60da01697882b510ddfe886f",
+  "fileName": "20190427_124706.jpg"
+  },
+  null,
+  null,
+  null
+  ],
+  "date": "2021-06-28T13:23:27.907Z",
+  "__v": 0
+  },
+  {
+  "propertyitems": {
+  "officesize": "5,000 sq. ft.",
+  "warehousesize": "64,920 sq. ft.",
+  "landsize": "5,080 sq. ft.",
+  "electric": "Yes",
+  "bathrooms": "2",
+  "water": "Yes",
+  "ceilingheight": "22 ft.",
+  "loadingdock": "Yes",
+  "taccess": "Yes",
+  "zoning": "M1-1",
+  "drivein": "Yes"
+  },
+  "propertiestatus": true,
+  "propertylocation": [
+  "All Locations",
+  "Queens"
+  ],
+  "propertycat": [
+  "Warehouse",
+  "All Types",
+  "Film Production",
+  "Storage",
+  "Garage"
+  ],
+  "_id": "60d27b14d99f8554ed913c92",
+  "photo": "supernorman.jpg",
+  "name": "Norman",
+  "lastname": "Pleitez",
+  "user": "60d0b8094c3daa1a74fb520f",
+  "featuredimg": "Image-8-scaled.jpeg",
+  "propertytitle": "Warehouse in Maspeth",
+  "propertylink": "warehouse-in-maspeth",
+  "propertyid": "RH-4980-property",
+  "propertyaddress": "52-15 Flushing Avenue, Maspeth, NY 11378",
+  "propertydetails": "<p>52-15 Flushing Avenue is available in Maspeth, NY.</p><p>This commercial space in Maspeth, New York and is just minutes from Manhattan, Queens, and Brooklyn.</p><p>One Stop has dozens of commercial real estate with land, warehouse, and office spaces for any use within 15 minutes of Manhattan. Any size you want, any length of time you need, no financial statements, and no personal guarantee required.</p><p>With dozens of sites located in the Tri-State area, we are bound to have the perfect warehouse, office, or parking space to fit your needs.</p><p>We allow the flexibility to add/reduce space based on your current needs. You can expand and downsize your commercial real estate easily.</p><p>Our on commercial property maintenance crew and management staff are ready to assist you. We offer snow removal, property clean-up and maintenance, debris removal, and commercial site preparation cleaning.</p>",
+  "extraboxes": [
+  {
+  "_id": "60d27b14d99f8554ed913c93",
+  "subtitle": "Available",
+  "order": 1,
+  "bodybox": "On Call"
+  }
+  ],
+  "gallery": [
+  {
+  "_id": "60da093071c798cbdcf90931",
+  "fileName": "5601-12k.jpg"
+  },
+  {
+  "_id": "60da093071c798cbdcf90932",
+  "fileName": "5601-wood.jpg"
+  },
+  {
+  "_id": "60da0ad8aed80acc62ce057c",
+  "fileName": "Cinq-Pics-space-2.JPG"
+  },
+  {
+  "_id": "60da0ad8aed80acc62ce057d",
+  "fileName": "DSC_0001.JPG"
+  },
+  {
+  "_id": "60da0ad8aed80acc62ce057e",
+  "fileName": "DSC_0002.JPG"
+  },
+  {
+  "_id": "60da0ad8aed80acc62ce057f",
+  "fileName": "DSC_0004.JPG"
+  },
+  {
+  "_id": "60da0ad8aed80acc62ce0580",
+  "fileName": "DSC_0005.JPG"
+  },
+  {
+  "_id": "60da29ca394815d6d8b432fa",
+  "fileName": "dsc_0006.jpg"
+  },
+  {
+  "_id": "60da29ca394815d6d8b432fb",
+  "fileName": "dsc_0007.jpg"
+  },
+  {
+  "_id": "60da29ca394815d6d8b432fc",
+  "fileName": "dsc_0008.jpg"
+  },
+  {
+  "_id": "60da29ca394815d6d8b432fd",
+  "fileName": "dsc_0010.jpg"
+  },
+  {
+  "_id": "60da29ca394815d6d8b432fe",
+  "fileName": "dsc_0011.jpg"
+  },
+  {
+  "_id": "60da29e741c2c3d6f3b2eeb8",
+  "fileName": "dsc_0012.jpg"
+  },
+  {
+  "_id": "60da29e741c2c3d6f3b2eeb9",
+  "fileName": "dsc_0013.jpg"
+  },
+  {
+  "_id": "60da29e741c2c3d6f3b2eeba",
+  "fileName": "dsc_0015.jpg"
+  },
+  {
+  "_id": "60da29e741c2c3d6f3b2eebb",
+  "fileName": "dsc_0017.jpg"
+  },
+  {
+  "_id": "60da29e741c2c3d6f3b2eebc",
+  "fileName": "dsc_0020.jpg"
+  }
+  ],
+  "date": "2021-06-23T00:06:44.301Z",
+  "__v": 0,
+  "propertiesubt": "Good for a big factory!"
+  }
+  ]
