@@ -4,7 +4,9 @@ import LayoutOne from '../Layouts/LayoutOne'
 const WarehouseSearchPage = () => {
   return (
     <LayoutOne>
-      <h1>Warehouse Search Page</h1>
+      <div className="page warehouse-search-page">
+        <h1>Warehouse Search</h1>
+      </div>
     </LayoutOne>
   )
 }
