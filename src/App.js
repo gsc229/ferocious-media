@@ -8,16 +8,13 @@ function App() {
 
   return (
     <div className="App">
-
       <Switch>
         <Route exact path='/'>
           <HomePage />
         </Route>
-
         <Route path='/warehouse-search'>
           <WarehouseSearchPage />
         </Route>
-
       </Switch>
 
     </div>
