@@ -1,5 +1,6 @@
-import React from 'react';
-import { Link, useHistory } from 'react-router-dom';
+import React, { useContext } from 'react';
+import { LocationsContext } from '../../Contexts/LocationsContext';
+import { useHistory } from 'react-router-dom';
 import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
@@ -23,12 +24,19 @@ const useStyles = makeStyles({
 });
 
 export default function MediaCard({property}) {
-  const classes = useStyles();
+  const classes = useStyles()
 
   const history = useHistory()
 
+  const { setSelectedProperty } = useContext(LocationsContext)
+
+  const handleClick = () => {
+    setSelectedProperty(property)
+    history.push(`/property/${property._id}`)
+  }
+
   return (
-    <Card onClick={() => history.push(`/property/${property._id}`)} className={classes.root}>
+    <Card onClick={handleClick} className={classes.root}>
       <CardActionArea>
         <CardMedia
           className={classes.media}
@@ -45,11 +53,9 @@ export default function MediaCard({property}) {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        <Link to={`/property/${property._id}`}>
-          <Button  size="small" color="primary">
-            Learn More
-          </Button>
-        </Link>
+        <Button onClick={handleClick}  size="small" color="primary">
+          Learn More
+        </Button>
       </CardActions>
     </Card>
   );
