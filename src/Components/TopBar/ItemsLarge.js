@@ -11,7 +11,7 @@ const ItemsLarge = ({ listItems }) => {
         {listItems.map(item => (
           <Link
           key={item}
-          className={`link-item-hover-effect`}
+          className={`link-item-hover-effect item-large`}
           to={item !== "Home" ? 'warehouse-search' : '/'}>
             {item.toUpperCase()}
           </Link>
