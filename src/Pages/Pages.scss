@@ -7,8 +7,12 @@
     padding-bottom: 10px;
   }
   .details-container{
-    width: 75%;
+    width: 35%;
     margin: auto;
     font-family: $fdos;
+    text-align: justify;
+    p{
+      padding: 0;
+    }
   }
 }
