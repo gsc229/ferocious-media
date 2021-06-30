@@ -3,11 +3,11 @@ import { LocationsContext } from '../../Pages/LocationsContext'
 
 const Bottom = () => {
 
-  const data = useContext(LocationsContext)
-  console.log({data})
+  const { data, filters } = useContext(LocationsContext)
+  console.log({filters, data})
   return (
     <div className='warehouse-bottom'>
-      
+      {/* <pre>{JSON.stringify({filters, data}, null, 2)}</pre> */}
     </div>
   )
 }
