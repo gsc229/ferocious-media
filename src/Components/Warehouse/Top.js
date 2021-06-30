@@ -1,7 +1,7 @@
 import React, {useContext} from 'react'
 import TypeSelect from './TypesSelect'
 import LocationSelect from './LocationSelect'
-import { LocationsContext } from '../../Pages/LocationsContext'
+import { LocationsContext } from '../../Contexts/LocationsContext'
 import FormControl from '@material-ui/core/FormControl'
 
 const Top = () => {

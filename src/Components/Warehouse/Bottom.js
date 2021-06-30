@@ -1,5 +1,5 @@
 import React, {useContext} from 'react'
-import { LocationsContext } from '../../Pages/LocationsContext'
+import { LocationsContext } from '../../Contexts/LocationsContext'
 import ImageGrid from '../ImageGrid/ImageGrid'
 
 const Bottom = () => {

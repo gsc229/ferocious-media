@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { LocationsContext } from '../../Pages/LocationsContext';
+import { LocationsContext } from '../../Contexts/LocationsContext';
 import { makeStyles } from '@material-ui/core/styles';
 import GridList from '@material-ui/core/GridList';
 import GridListTile from '@material-ui/core/GridListTile';
@@ -7,6 +7,7 @@ import GridListTileBar from '@material-ui/core/GridListTileBar';
 import ListSubheader from '@material-ui/core/ListSubheader';
 import IconButton from '@material-ui/core/IconButton';
 import InfoIcon from '@material-ui/icons/Info';
+import { Link } from 'react-router-dom';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -25,27 +26,12 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-/**
- * The example data is structured as follows:
- *
- * import image from 'path/to/image.jpg';
- * [etc...]
- *
- * const tileData = [
- *   {
- *     img: image,
- *     title: 'Image',
- *     author: 'author',
- *   },
- *   {
- *     [etc...]
- *   },
- * ];
- */
+
 export default function TitlebarGridList() {
   const classes = useStyles();
 
   const { data } = useContext(LocationsContext)
+
 
   return (
     <div className={classes.root}>
@@ -55,7 +41,12 @@ export default function TitlebarGridList() {
         </GridListTile>
         {data.map((tile) => (
           <GridListTile key={tile._id}>
-            <img src={`https://ospadmin.ferociousmediaweb.com/uploads/${tile.featuredimg}`} alt={tile.propertytitle} />
+            <img
+            style={{cursor: 'pointer'}}
+            src={`https://ospadmin.ferociousmediaweb.com/uploads/${tile.featuredimg}`} 
+            alt={tile.propertytitle} />
+    
+
             <GridListTileBar
               title={tile.propertytitle}
               subtitle={<span>{tile.propertyaddress}</span>}

@@ -1,5 +1,5 @@
 import React, {useContext} from 'react'
-import { LocationsContext } from '../../Pages/LocationsContext'
+import { LocationsContext } from '../../Contexts/LocationsContext'
 import InputLabel from '@material-ui/core/InputLabel'
 import TextField from '@material-ui/core/TextField'
 import MenuItem from '@material-ui/core/MenuItem'
