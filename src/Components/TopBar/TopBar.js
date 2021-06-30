@@ -1,7 +1,7 @@
 import React from 'react'
 import AppBar from '@material-ui/core/AppBar'
 import Grid from '@material-ui/core/Grid'
-import Bottom from './Bottom'
+import Bottom from './TopBarBottom'
 import ItemsLarge from './ItemsLarge'
 import ItemsSmall from './ItemsSmall'
 import logo from '../../images/one-stop-logo (1).png'
@@ -42,6 +42,7 @@ const TopBar = () => {
 
   return (
     <AppBar
+    position='fixed'
     elevation={0} 
     className={classes.topBar}>
       <div

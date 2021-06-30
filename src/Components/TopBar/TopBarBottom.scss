@@ -1,5 +1,5 @@
 .top-bar-bottom{
-  height: 70px;
+  height: 60px;
   display: flex;
   justify-content: flex-end;
 }
@@ -23,7 +23,7 @@
   }
   .spaces{
     background-color: $tercero;
-    background-color: rgba(yellow, $alpha: .7);
+    background-color: rgba(yellow, .7);
     color: black;
   }
   .number{

@@ -1,11 +1,14 @@
 import React from 'react'
 import LayoutOne from '../Layouts/LayoutOne'
+import Top from '../Components/Warehouse/Top'
+import Bottom from '../Components/Warehouse/Bottom'
 
 const WarehouseSearchPage = () => {
   return (
     <LayoutOne>
       <div className="page warehouse-search-page">
-        <h1>Warehouse Search</h1>
+        <Top />
+        <Bottom />
       </div>
     </LayoutOne>
   )
