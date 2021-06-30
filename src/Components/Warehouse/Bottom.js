@@ -1,6 +1,7 @@
 import React, {useContext} from 'react'
 import { LocationsContext } from '../../Contexts/LocationsContext'
 import ImageGrid from '../ImageGrid/ImageGrid'
+import PropertyCard from '../PropertyCard/PropertyCard'
 
 const Bottom = () => {
 
@@ -9,7 +10,12 @@ const Bottom = () => {
   return (
     <div className='warehouse-bottom'>
       {/* <pre>{JSON.stringify({filters, data}, null, 2)}</pre> */}
-      <ImageGrid />
+      {/* <ImageGrid /> */}
+      <div className="property-card-container">
+        {data.map(property => (
+          <PropertyCard property={property} />
+        ))}
+      </div>
     </div>
   )
 }

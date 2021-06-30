@@ -7,7 +7,7 @@ import GridListTileBar from '@material-ui/core/GridListTileBar';
 import ListSubheader from '@material-ui/core/ListSubheader';
 import IconButton from '@material-ui/core/IconButton';
 import InfoIcon from '@material-ui/icons/Info';
-import { Link } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -28,10 +28,16 @@ const useStyles = makeStyles((theme) => ({
 
 
 export default function TitlebarGridList() {
-  const classes = useStyles();
+  
 
-  const { data } = useContext(LocationsContext)
-
+  const { data, setSelectedProperty } = useContext(LocationsContext)
+  const dataLength = data.length
+  const classes = useStyles(dataLength);
+  const history = useHistory()
+  const handleClick = (tile) => {
+    setSelectedProperty(tile)
+    history.push(`/property/${tile._id}`)
+  }
 
   return (
     <div className={classes.root}>
@@ -42,6 +48,7 @@ export default function TitlebarGridList() {
         {data.map((tile) => (
           <GridListTile key={tile._id}>
             <img
+            onClick={() => handleClick(tile)}
             style={{cursor: 'pointer'}}
             src={`https://ospadmin.ferociousmediaweb.com/uploads/${tile.featuredimg}`} 
             alt={tile.propertytitle} />

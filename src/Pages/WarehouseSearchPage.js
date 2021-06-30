@@ -8,8 +8,8 @@ const WarehouseSearchPage = () => {
   return (
     <LayoutOne>
       <div className="page warehouse-search-page">
-          <Top />
-          <Bottom />
+        <Top />
+        <Bottom />
       </div>
     </LayoutOne>
   )
