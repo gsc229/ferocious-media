@@ -1,5 +1,11 @@
 .property-page-inner{
   margin-top: 250px;
+  .no-images-msg{
+    border-bottom: 1px solid black;
+    width: 500px;
+    margin: 10px auto;
+    padding-bottom: 10px;
+  }
   .details-container{
     width: 75%;
     margin: auto;

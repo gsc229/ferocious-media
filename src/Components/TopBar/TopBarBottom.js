@@ -6,7 +6,7 @@ const Bottom = () => {
     <div className="top-bar-bottom">
       <div className="spaces-and-number">
         <div className="spaces">
-          <Link to='warehouse-search' className="link-item-hover-effect">
+          <Link to='/warehouse-search' className="link-item-hover-effect">
             Our Spaces
           </Link>
         </div>

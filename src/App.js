@@ -62,7 +62,7 @@ function App() {
          }}>
           <Switch>
             <Route exact path='/'>
-              <HomePage />
+              <WarehouseSearchPage />
             </Route>
             <Route path='/warehouse-search'>
               <WarehouseSearchPage />
