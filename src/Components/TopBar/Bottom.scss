@@ -1,0 +1,33 @@
+.top-bar-bottom{
+  height: 70px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.spaces-and-number{
+  background-color: lightblue;
+  width: 25rem;
+  display: flex;
+  align-items: center;
+  margin-right: 200px;
+  font-family: $fdos;
+  font-size: 16px;
+  .spaces,.number{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    font-weight: 500;
+    font-size: 17px;
+  }
+  .spaces{
+    background-color: $tercero;
+    background-color: rgba(yellow, $alpha: .7);
+    color: black;
+  }
+  .number{
+    background-color: rgba($color: #000000, $alpha: .7);
+    color: $tercero;
+  }
+}
