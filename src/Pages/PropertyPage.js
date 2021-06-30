@@ -13,8 +13,12 @@ const PropertyPage = () => {
     <LayoutOne>
       <div className='selected-property-page'>
         <div className='property-page-inner'>
-          <h2>{selectedProperty.propertytitle}</h2>
+          <h1>{selectedProperty.propertytitle}</h1>
+          <p>{selectedProperty.propertyaddress}</p>
           <Carousel />
+          <div dangerouslySetInnerHTML={{__html: selectedProperty.propertydetails }} className="details-container">
+
+          </div>
         </div>
       </div>
     </LayoutOne>
