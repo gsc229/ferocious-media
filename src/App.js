@@ -3,7 +3,6 @@ import axiosRequest from './utils/axiosReques'
 import './App.scss';
 import { Route, Switch } from 'react-router-dom'
 import { LocationsContext } from './Contexts/LocationsContext';
-import HomePage from './Pages/HomePage';
 import WarehouseSearchPage from './Pages/WarehouseSearchPage';
 import PropertyPage from './Pages/PropertyPage';
 import data from './data.json'
